@@ -1,0 +1,133 @@
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Delete Task
+5. Search Task
+6. Update Task
+7. Exit
+Choose: 1
+Write your task here: Shopping
+Task Added Successfully!
+
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Delete Task
+5. Search Task
+6. Update Task
+7. Exit
+Choose: 1
+Write your task here: Swimming
+Task Added Successfully!
+
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Delete Task
+5. Search Task
+6. Update Task
+7. Exit
+Choose: 1
+Write your task here: Studying
+Task Added Successfully!
+
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Delete Task
+5. Search Task
+6. Update Task
+7. Exit
+Choose: 2
+1 Shopping Pending
+2 Swimming Pending
+3 Studying Pending
+
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Delete Task
+5. Search Task
+6. Update Task
+7. Exit
+Choose: 3
+Enter the Task number: 2
+Task marked as done
+
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Delete Task
+5. Search Task
+6. Update Task
+7. Exit
+Choose: 2
+1 Shopping Pending
+2 Swimming Done
+3 Studying Pending
+
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Delete Task
+5. Search Task
+6. Update Task
+7. Exit
+Choose: 4
+Enter the Task you want to delete: 1
+Task Deleted Successfully
+
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Delete Task
+5. Search Task
+6. Update Task
+7. Exit
+Choose: 2
+1 Swimming Done
+2 Studying Pending
+
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Delete Task
+5. Search Task
+6. Update Task
+7. Exit
+Choose: 5
+Enter the word you want to search: d
+2 Studying Pending
+
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Delete Task
+5. Search Task
+6. Update Task
+7. Exit
+Choose: 6
+Enter the task you want to update: 1
+Enter the new text here: Dancing
+Task Updated Successfully!
+
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Delete Task
+5. Search Task
+6. Update Task
+7. Exit
+Choose: 2
+1 Dancing Done
+2 Studying Pending
+
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Delete Task
+5. Search Task
+6. Update Task
+7. Exit
+Choose: 7
+Program Ended
