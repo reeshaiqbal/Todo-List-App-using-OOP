@@ -1,4 +1,4 @@
-Todo List App (Python, OOP)
+<h1>Todo List App (Python, OOP)</h1>
 
 Overview:<br>
 This is a console based Todo List application implemented in Python using Object-Oriented Programming (OOP) concepts.<br>
